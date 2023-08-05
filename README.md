@@ -1,14 +1,5 @@
-# Expo Router Example
+# React Native Expo
+Project using React Native Expo.
+Following a tutorial/course by JSMastery: https://youtu.be/mJ3bGvy0WAY
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
-
-## 🚀 How to use
-
-```sh
-npx create-expo-app -e with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+Deployed on Expo: https://expo.dev/@jseinarsson/rct-ntv-xp?serviceType=classic&distribution=expo-go
